@@ -1,0 +1,7 @@
+The package requirements for this Python program are as follows:
+
+- requests
+- bs4 (BeautifulSoup)
+- nltk
+- transformers
+- openai
